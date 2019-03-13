@@ -41,3 +41,8 @@ h2.story  {
 .minappeal {
   font-size: 23px;
 }
+ul {
+  list-style-type: none;
+  padding: 0px;
+  margin: 0px;
+}
