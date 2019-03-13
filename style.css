@@ -11,6 +11,9 @@ padding: 0px;
   padding-top: 20px;
   padding-bottom: 10px;
 }
+#wrapper {
+  margin: 10px;
+}
 html {
   height: 100%;
 }
