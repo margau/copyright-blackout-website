@@ -3,6 +3,7 @@ body {
   background: linear-gradient(180deg, #000, #040404 60%, #222 90%,#444);
   background-repeat: no-repeat;
   color: #e2e2e2;
+  font-family: 'Open Sans', sans-serif;
 }
 
 html {
@@ -15,4 +16,7 @@ a, a:hover, a:visited {
 
 a:hover {
   text-decoration: none;
+}
+.story {
+  font-family: 'Tangerine', cursive;
 }
