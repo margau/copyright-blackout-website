@@ -46,3 +46,7 @@ ul {
   padding: 0px;
   margin: 0px;
 }
+li ul {
+  list-style-type: disc;
+  display: inline-block;
+}
