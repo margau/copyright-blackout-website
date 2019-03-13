@@ -25,3 +25,7 @@ h1.story  {
 h2.story  {
   font-size: 40px;
 }
+.appeal {
+  font-size: 25px;
+  font-weight: bold;
+}
