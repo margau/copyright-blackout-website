@@ -19,3 +19,9 @@ a:hover {
 .story {
   font-family: 'Tangerine', cursive;
 }
+h1.story  {
+  font-size: 50px;
+}
+h2.story  {
+  font-size: 40px;
+}
