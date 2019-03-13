@@ -47,6 +47,6 @@ ul {
   margin: 0px;
 }
 li ul {
-  list-style-type: disc;
+  list-style-type: circle;
   display: inline-block;
 }
