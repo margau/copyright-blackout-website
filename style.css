@@ -26,13 +26,13 @@ a:hover {
   text-decoration: none;
 }
 .story {
-  font-family: 'Tangerine', cursive;
+  font-family: 'Rock Salt', cursive;
 }
 h1.story  {
-  font-size: 50px;
+  font-size: 30px;
 }
 h2.story  {
-  font-size: 40px;
+  font-size: 25px;
 }
 .appeal {
   font-size: 25px;
