@@ -1,19 +1,22 @@
 body {
-/* */
-margin: 0px;
-padding: 0px;
+  /* */
+  margin: 0px;
+  padding: 0px;
   color: #e2e2e2;
   font-family: 'Open Sans', sans-serif;
 }
+
 #outwrapper {
-  background: linear-gradient(180deg, #000, #040404 60%, #222 90%,#444);
+  background: linear-gradient(180deg, #000, #040404 60%, #222 90%, #444);
   background-repeat: no-repeat;
   padding-top: 20px;
   padding-bottom: 10px;
 }
+
 #wrapper {
   margin: 10px;
 }
+
 html {
   height: 100%;
 }
@@ -25,27 +28,34 @@ a, a:hover, a:visited {
 a:hover {
   text-decoration: none;
 }
+
 .story {
-  font-family: 'Rock Salt', cursive;
+  font-family: 'Playfair Display';
 }
-h1.story  {
+
+h1.story {
   font-size: 30px;
 }
-h2.story  {
+
+h2.story {
   font-size: 25px;
 }
+
 .appeal {
   font-size: 25px;
   font-weight: bold;
 }
+
 .minappeal {
   font-size: 23px;
 }
+
 ul {
   list-style-type: none;
   padding: 0px;
   margin: 0px;
 }
+
 li ul {
   list-style-type: circle;
   display: inline-block;
